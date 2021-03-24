@@ -1,9 +1,7 @@
 <h1 align="center">
   Foodybite
 </h1>
-<h3 align="center">
-  <a href="http://davidcobbina.com" target="_blank">davidcobbina.com</a>
-</h3>
+
 <p align="center">
    Beautifully crafted with <strong>flutter</strong> and love, a useful UI Kit for developers and designers 
 who need food related app design.
@@ -11,9 +9,6 @@ who need food related app design.
 <p align="center">
   Find actual designs at (https://www.behance.net/gallery/81858385/Foodybite-Free-UI-Kit-for-Adobe-XD)
 </p>
-
-
-<a href="https://play.google.com/store/apps/details?id=com.davidcobbina.potbelly" target="_blank"><img src="assets/screenshots/playstore.png"/></a>
 
 ## Foody Bite Home
 ![Screenshot](assets/screenshots/foody_bite_home.png "Foody Bite Home")
